@@ -10,6 +10,14 @@ background-color: black;
 color: white;
 }
 
+.cabeçalho ul{
+    list-style-type: none;
+    justify-content: space-evenly;
+    display: flex;
+    align-items: baseline;
+    margin-left: 40%;
+}
+
 header a{
 color: white;
 text-decoration: none;
@@ -18,6 +26,12 @@ text-decoration: none;
 header a:hover{
     color: blueviolet;
     text-decoration: none;
+}
+
+.header-logo{
+    display: flex;
+    margin-bottom: -40px;
+    width: 50px;
 }
 
 main {
@@ -31,10 +45,4 @@ footer {
     width: 100%;
     height: 100px;
     line-height: 100px;
-}
-.cabeçalho ul{
-    list-style-type: none;
-    display: flex;
-    justify-content: space-evenly;
-    margin-left: 40%;
 }
