@@ -5,7 +5,7 @@ header{
 list-style-type: none;
 margin: 0;
 padding: 10px;
-overflow: hidden;
+overflow: visible;
 background-color: black;
 color: white;
 }
@@ -32,14 +32,8 @@ footer {
     height: 100px;
     line-height: 100px;
 }
-.cabeçalho {
+.cabeçalho ul{
+    justify-content: space-between;
     display: flex;
-}
-li{
-    float: left;
-}
-li a{
-    text-align: center;
-    text-decoration: none;
-    justify-items: center;
+    list-style-type: none;
 }
