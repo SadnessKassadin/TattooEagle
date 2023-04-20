@@ -46,3 +46,10 @@ footer {
     height: 100px;
     line-height: 100px;
 }
+
+.cabeçalho ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 40%;
+}
