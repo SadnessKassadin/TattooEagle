@@ -37,8 +37,9 @@ a:hover{
     margin-bottom: -40px;
     width: 50px;
 }
-.tittle{
+.title{
     margin-top: 5%;
+    margin-bottom: -5%;
     text-align: center;
 }
 
