@@ -35,3 +35,11 @@ footer {
 .cabeçalho {
     display: flex;
 }
+li{
+    float: left;
+}
+li a{
+    text-align: center;
+    text-decoration: none;
+    justify-items: center;
+}
