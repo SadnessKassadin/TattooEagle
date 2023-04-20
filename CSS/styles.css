@@ -4,7 +4,19 @@ margin: 0;
 padding: 10px;
 overflow: hidden;
 background-color: black;
+color: white;
 }
+
+header a{
+color: white;
+text-decoration: none;
+}
+
+header a:hover{
+    color: blueviolet;
+    text-decoration: none;
+}
+
 main {
 
 }
