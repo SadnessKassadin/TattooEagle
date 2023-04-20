@@ -52,4 +52,17 @@ footer {
     justify-content: space-evenly;
     margin-left: 40%;
 }
+.portfolio {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    filter: drop-shadow(34px 5px 10px #000);
+    margin: 3%;
+}
+.portfolio2 {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    filter: drop-shadow(34px 5px 10px #000);
+}
 
