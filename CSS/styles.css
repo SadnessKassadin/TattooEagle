@@ -33,7 +33,8 @@ footer {
     line-height: 100px;
 }
 .cabeçalho ul{
-    justify-content: space-between;
-    display: flex;
     list-style-type: none;
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 40%;
 }
