@@ -2,3 +2,9 @@
     margin: 15%;
     text-align: center;
 }
+.form-group{
+    margin-bottom: 10px;
+}
+.data-label{
+    opacity: 30%;
+}

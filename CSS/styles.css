@@ -37,6 +37,10 @@ a:hover{
     margin-bottom: -40px;
     width: 50px;
 }
+.tittle{
+    margin-top: 5%;
+    text-align: center;
+}
 
 footer {
     position: fixed;
