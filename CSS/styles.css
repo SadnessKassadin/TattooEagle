@@ -70,4 +70,7 @@ footer {
     justify-content: space-around;
     filter: drop-shadow(34px 5px 10px #000);
 }
+.body2 {
+    background-image: linear-gradient(45deg, white, black);
+}
 
