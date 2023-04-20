@@ -10,6 +10,10 @@ background-color: black;
 color: white;
 }
 
+.general-carousel{
+    margin: 3%
+}
+
 .cabeçalho ul{
     list-style-type: none;
     justify-content: space-evenly;
