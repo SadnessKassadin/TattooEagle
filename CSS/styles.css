@@ -46,3 +46,12 @@ footer {
     height: 100px;
     line-height: 100px;
 }
+<<<<<<< Updated upstream
+=======
+.cabeçalho ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 40%;
+}
+>>>>>>> Stashed changes
