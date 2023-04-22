@@ -85,4 +85,13 @@ footer {
 .pessoa {
     text-align: center;
 }
-
+#row{
+    height: 30px;
+    background-color: #000;
+    border-color: #000;
+}
+hr{
+    height: 50px;
+    background-color: #000;
+    border-color: #000;
+}
