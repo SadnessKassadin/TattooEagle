@@ -85,7 +85,6 @@ footer {
     background-color: #000;
     border-color: #000;
 }
-<<<<<<< Updated upstream
 #esqrdir{
     display: flex;
 }
@@ -97,12 +96,6 @@ footer {
 }
 #email{
     margin-right: 10px
-}
-=======
-hr{
-    height: 50px;
-    background-color: #000;
-    border-color: #000;
 }
 .esqrdir{
     display: flex;
@@ -117,4 +110,3 @@ hr{
 #email{
     margin-right: 20px;
 }
->>>>>>> Stashed changes
