@@ -1,6 +1,6 @@
 body{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-color: rgb(170, 167, 167);
+    background-color: rgb(224, 220, 220);
 }
 header{
 list-style-type: none;
@@ -9,6 +9,11 @@ padding: 10px;
 overflow: visible;
 background-color: rgb(255, 255, 255);
 color: rgb(255, 255, 255);
+}
+
+.right-item{
+    display:flex;
+    
 }
 
 .general-carousel{
@@ -39,9 +44,10 @@ a:hover{
     width: 50px;
 }
 .title{
-    margin-top: 5%;
-    margin-bottom: -5%;
+    margin-bottom: -2%;
     text-align: center;
+    background-color: black;
+    color: white;
 }
 
 footer {
@@ -74,13 +80,6 @@ footer {
     justify-content: space-between;
     filter: drop-shadow(34px 5px 10px #000);
     margin-bottom: 1%;
-}
-
-.margin{
-    margin-top: 5%;
-}
-.body2 {
-    background-image: linear-gradient(45deg, white);
 }
 .pessoa {
     text-align: center;
