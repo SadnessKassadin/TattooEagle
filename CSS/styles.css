@@ -36,6 +36,7 @@ a:hover{
 }
 
 .header-logo{
+    margin-left: 2%;
     display: flex;
     margin-bottom: -40px;
     width: 50px;
@@ -88,8 +89,8 @@ footer {
 #esqrdir{
     display: flex;
 }
-#whatsapp{
-    margin-right: 10px;
+#whats{
+    margin-right: 150px;
 }
 #instagram{
     margin-right: 10px;
@@ -101,7 +102,7 @@ footer {
     display: flex;
 }
 #whatsapp{
-    margin-right: 150px;
+    margin-right: 10px;
 }
 #instagram{
     margin-right: 150px;
