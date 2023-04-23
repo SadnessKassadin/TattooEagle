@@ -130,3 +130,8 @@ footer {
 .mapa{
     text-align: center;
 }
+hr{
+    border-color: black;
+    background-color: #000;
+    height: 50px;
+}
