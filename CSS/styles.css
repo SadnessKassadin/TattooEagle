@@ -124,6 +124,8 @@ footer {
 .mapa{
     width: 800px;
     margin: 2em auto;
+    border-width: 20px;
+    border-style: solid;
 }
 .mapa{
     text-align: center;
