@@ -24,10 +24,10 @@
 }
 
 .mapa{
-    width: 800px;
+    width: 625px;
     margin: 2em auto;
-    border-radius: 72px 72px 72px 72px;
     border: 10px solid #000000;
+    border-spacing: 1000px;
 }
 .mapa{
     text-align: center;
