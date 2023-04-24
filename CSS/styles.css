@@ -107,8 +107,6 @@ footer {
     margin: 2em auto;
     border-width: 20px;
     border-style: solid;
-}
-.mapa{
     text-align: center;
 }
 
@@ -118,13 +116,17 @@ footer {
     }
         
 }
-p{
+.escolher{
+    font-size: 22px;
+}
+.recordar{
     font-size: 22px;
 }
 hr{
     height: 100px;
     border-color: #000;
     background-color: #000;
+    border-radius: 10px;
 }
 .video{
     text-align: center;

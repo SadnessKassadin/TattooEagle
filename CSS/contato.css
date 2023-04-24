@@ -32,3 +32,23 @@
 .mapa{
     text-align: center;
 }
+@media(max-width: 768px) {
+    .mapa {
+        width: 100px;
+        text-align: right;
+        border: none;
+        margin: none;
+        border-spacing: none;
+    }
+}
+@media(max-width: 768px) {
+    .iframe1 {
+        width: 200px;
+        height: 300px;
+    }
+}
+@media(max-width: 768px) {
+    .esqrdir {
+        display: block;
+    }
+}
