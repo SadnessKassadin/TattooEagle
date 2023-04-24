@@ -128,3 +128,21 @@ hr{
     background-color: #000;
     border-radius: 10px;
 }
+@media(max-width: 768px) {
+    .img {
+        width: 100px;
+    }
+}
+@media(max-width: 768px) {
+    .img2 {
+        width: 100px;
+    }
+}
+.img {
+
+}
+.img2 {
+
+}
+
+
