@@ -4,14 +4,15 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <!--CSS do bootstrap-->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
     <link rel="stylesheet" href="CSS/styles.css">
     <link rel="shortcut icon" href="imagens/favicon.ico" type="image/x-icon">
     <link rel="stylesheet" href="CSS/contato.css">
+    <!--Dependencias do ajax.fontawesome-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <!--CSS do bootstrap-->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
     <title>Contato - Tatoo Eagle</title>
 </head>
-
 <body>
     <!--Header é cabeçalho-->
     <header>
@@ -34,27 +35,37 @@
             <br>
         </div>
         <br>
-        <div class="esqrdir">
-            <section id="whats">
-                <h2>Whatsapp:</h2>
-        <p id="whatsapp">(71) 98876-5542</p>
-            </section>
-            <section>
-                <h3>Instagram:</h3>
-        <a id="instagram" href="https://www.instagram.com/tattoo.eagle">https://www.instagram.com/tattoo.eagle</a>
-            </section>
-            <section>
-                <h4>E-mail:</h4>
-        <p id="email">contato.tatooeagle@gmail.com</p>
-            </section>
-            <section>
-                <h5>Onde ficamos:</h5>
-        <p id="endereço">Avenida Luís Viana Filho, 6775, Trobogy, Salvador - BA. CEP: 41745-130</p>
-            </section>
-        </div>
+        <section class="row contact-container">
+        <div class="card" style="width: 18rem;">
+            <div class="card-body">
+              <h5 class="card-title">Whatsapp  <i class="fa fa-whatsapp" style="font-size:24px"></i></h5>
+              <p class="card-text">Você pode falar com a gente diretamente pelo whatsapp</p>
+              <p class="card-text"><small class="text-muted">não aceitamos ligações por esse número</small></p>
+              <p class="card-link">(71) 98876-5542</p>
+            </div>
+          </div>
+          <div class="card" style="width: 18rem;">
+            <div class="card-body">
+              <h5 class="card-title"><i class="fa fa-instagram" style="font-size:24px"></i> Instagram</h5>
+              <p class="card-text">Acompanhe o nosso trabalho pelo instagram</p>
+              <br> <br>
+              <a href="https://www.instagram.com/tattoo.eagle" class="card-link"><i class="fa fa-instagram"></i>/tattoo.eagle</a>
+            </div>
+          </div>
+          <div class="card" style="width: 18rem;">
+            <div class="card-body">
+              <h5 class="card-title"><i class="fa fa-envelope" style="font-size:24px"></i> Email</h5>
+              <p class="card-text">Ou se preferir, pode nos mandar um e-mail</p>
+              <p class="card-text"><small class="text-muted">Tempo de resposta: 2 horas - 1 dia útil</small></p>
+              <p class="card-link">contato.tatooeagle@gmail.com</p>
+            </div>
+          </div>
+        </section>
+        <br>
         <section class="mapa">
-       <iframe class="iframe1" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3888.533200743142!2d-38.41256012410813!3d-12.937696087374542!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x716119890d5849f%3A0xf254f0c62d1ffe87!2sUNIJORGE!5e0!3m2!1spt-BR!2sbr!4v1682208280834!5m2!1spt-BR!2sbr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-       </section>
+            <h5>Onde nos encontrar:</h5>
+            <iframe class="iframe1" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3888.533200743142!2d-38.41256012410813!3d-12.937696087374542!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x716119890d5849f%3A0xf254f0c62d1ffe87!2sUNIJORGE!5e0!3m2!1spt-BR!2sbr!4v1682208280834!5m2!1spt-BR!2sbr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            </section>
     </main>
     <!--Dependencias do bootstrap-->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
