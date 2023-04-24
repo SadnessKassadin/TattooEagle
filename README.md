@@ -11,7 +11,7 @@
 * CSS
     * Bootstrap (para caixas de texto, cards e botões)
     * Ajax (para ícones)
-* 
+* Formsubmit (para envio de formulários sem backend)
 ***
 Equipe:
 
