@@ -19,6 +19,12 @@ overflow: visible;
 .nav-link{
     font-size: large;
     margin-right: 1%;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+.nav-link:hover{
+    color: darkblue;
+    text-decoration: none;
 }
 .general-carousel{
     margin: 1%
