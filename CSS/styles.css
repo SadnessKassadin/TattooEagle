@@ -126,6 +126,11 @@ footer{
         width: 100px;
     }
 }
+@media(max-width: 768px) {
+    .img3 {
+        width: 200px;
+    }
+}
 
 .escolha{
     background-color: rgb(63, 65, 66);
@@ -135,6 +140,9 @@ footer{
 
 }
 .img2 {
+
+}
+.img3 {
 
 }
 .iframe2 {
