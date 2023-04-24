@@ -132,3 +132,12 @@ footer {
 .img2 {
 
 }
+.iframe2 {
+
+}
+@media(max-width: 768px) {
+    .iframe2 {
+        width: 350px;
+        height: 300px;
+    }
+}
