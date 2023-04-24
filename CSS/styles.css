@@ -54,11 +54,6 @@ a:hover{
 footer{
     margin-bottom: 3%;
 }
-.cabeçalho ul{
-    list-style-type: none;
-    display: flex;
-    justify-content: space-evenly;
-}
 
 .portfolio {
     margin: 5%;
