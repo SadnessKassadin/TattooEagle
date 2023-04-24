@@ -77,6 +77,10 @@ footer{
     filter: drop-shadow(34px 5px 10px #000);
     margin-bottom: 1%;
 }
+.portfolio3 {
+    list-style: none;
+    filter: drop-shadow(34px 15px 10px #000);
+}
 .pessoa {
     text-align: center;
 }
