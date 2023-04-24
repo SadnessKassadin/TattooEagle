@@ -108,3 +108,9 @@ footer {
 .mapa{
     text-align: center;
 }
+@media(max-width: 768px) {
+    .tx {
+    width: 324px;
+    }
+        
+}
