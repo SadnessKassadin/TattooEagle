@@ -116,3 +116,15 @@ footer {
     }
         
 }
+.escolher{
+    font-size: 22px;
+}
+.recordar{
+    font-size: 22px;
+}
+hr{
+    height: 100px;
+    border-color: #000;
+    background-color: #000;
+    border-radius: 10px;
+}
