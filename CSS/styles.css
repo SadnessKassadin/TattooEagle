@@ -158,3 +158,17 @@ main {
     margin: auto;
 }
 }
+nav {
+
+}
+@media(max-width: 768px) {
+    nav {
+        padding: 20px;
+        border-radius: 10px;
+        min-width: 280px;
+        max-width: 768px;
+        margin: auto;
+        font-size: 12px;
+    }
+    }
+
