@@ -12,6 +12,9 @@
     * Bootstrap (para caixas de texto, cards e botões)
     * Ajax (para ícones)
 * Formsubmit (para envio de formulários sem backend)
+* Github pages para hospedagem
+***
+### [Acesse a ultima versão por aqui](https://bit.ly/TattooEagle)
 ***
 Equipe:
 
