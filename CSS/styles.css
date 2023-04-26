@@ -1,5 +1,5 @@
 body{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', 'Arial', 'sans-serif';
     background-color: rgb(224, 220, 220);
 }
 header{
@@ -13,9 +13,6 @@ overflow: visible;
     border-radius: 15px;
 }
 
-.navbar-item{
-    text-align: center;
-}
 .nav-link{
     font-size: large;
     margin-right: 1%;

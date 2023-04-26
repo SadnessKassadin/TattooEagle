@@ -1,3 +1,6 @@
+.body{
+    background-color: rgb(224, 220, 220);
+}
 #esqrdir{
     display: flex;
 }
