@@ -27,7 +27,7 @@ overflow: visible;
     text-decoration: none;
 }
 .general-carousel{
-    margin: 1%
+    margin: 5%
 }
 
 
@@ -184,6 +184,19 @@ nav {
         max-width: 768px;
         margin: auto;
         font-size: 12px;
+    }
+    .landing-content{
+        height: 500px;
+        padding-inline-start: 90%;
+        text-align: center;
+        margin-bottom: 100px;
+    }
+    .landing-section img{
+        display: none;
+    }
+    iframe {
+        width: 300px;
+        height: 220px;
     }
     }
 
