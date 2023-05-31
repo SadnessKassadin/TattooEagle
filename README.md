@@ -18,7 +18,7 @@
 ***
 Equipe:
 
-   Cauan Pereira Nascimento | [@SadnessKassadin](https://github.com/SadnessKassadin)
+   Cauan Pereira Nascimento | [@flameKaw](https://github.com/flamekaw)
    
    Pablo de Jesus | [@DeusReal](https://github.com/DeusReal)
    
