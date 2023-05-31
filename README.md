@@ -14,7 +14,7 @@
 * Formsubmit (para envio de formulários sem backend)
 * Github pages para hospedagem
 ***
-### [Acesse a ultima versão por aqui](https://bit.ly/TattooEagle)
+### [Acesse a ultima versão por aqui](https://bit.ly/uj-tattooeagle)
 ***
 Equipe:
 
