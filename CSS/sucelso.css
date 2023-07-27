@@ -1,19 +1,23 @@
-
-main{
-    margin-right: 15%;
-    margin-left: 15%;
-    margin-top: 13%;
-    background-color: white;
+main {
+  margin-right: 15%;
+  margin-left: 15%;
+  margin-top: 13%;
+  background-color: white;
 }
-.flex{
-    display: flex;
-    justify-content: center;
-    align-items: center;
+.flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
-.texto{
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 17px;
-    text-align: center;
-    padding: 3%;
+.texto {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 17px;
+  text-align: center;
+  padding: 3%;
+}
+
+.lottie {
+  display: flex;
+  justify-content: center;
 }
