@@ -13,7 +13,7 @@ Projeto tem como ideia fazer com que cliente tenha o facil acesso para marcar ho
   - Bootstrap (para caixas de texto, cards e botões)
   - Ajax (para ícones)
 - Formsubmit (para envio de formulários sem backend)
-- Github pages para hospedagem
+- Hospedagem feita pela Vercel
 
 ---
 
